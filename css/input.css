@@ -16,7 +16,7 @@ body {
   @apply w-full bg-[#0866FF] text-white font-bold h-16 rounded-full cursor-pointer text-2xl relative overflow-hidden shadow;
 }
 
-.main-button::before, .tg-button::before {
+.main-button::before, .submit-button::before {
   content: '';
   position: absolute;
   top: -50%;
