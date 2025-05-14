@@ -8,17 +8,17 @@ body {
   box-shadow: 0 9px 18px 0 #00000014;
 }
 
-.staatliches {
-  font-family: "Staatliches", sans-serif;
+.bebas {
+  font-family: "Bebas Neue", sans-serif;
 }
 
 .main-button {
-  font-family: "Staatliches", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   @apply w-full bg-[#0866FF] text-white h-[70px] rounded-full cursor-pointer text-3xl relative overflow-hidden;
 }
 
 .submit-button {
-  font-family: "Staatliches", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   @apply w-full bg-[#0866FF] text-white h-16 rounded-full cursor-pointer text-3xl relative overflow-hidden shadow;
 }
 
