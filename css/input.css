@@ -8,12 +8,18 @@ body {
   box-shadow: 0 9px 18px 0 #00000014;
 }
 
+.staatliches {
+  font-family: "Staatliches", sans-serif;
+}
+
 .main-button {
-  @apply w-full bg-[#0866FF] text-white font-bold h-[70px] rounded-full cursor-pointer text-2xl relative overflow-hidden;
+  font-family: "Staatliches", sans-serif;
+  @apply w-full bg-[#0866FF] text-white font-bold h-[70px] rounded-full cursor-pointer text-3xl relative overflow-hidden;
 }
 
 .submit-button {
-  @apply w-full bg-[#0866FF] text-white font-bold h-16 rounded-full cursor-pointer text-2xl relative overflow-hidden shadow;
+  font-family: "Staatliches", sans-serif;
+  @apply w-full bg-[#0866FF] text-white font-bold h-16 rounded-full cursor-pointer text-3xl relative overflow-hidden shadow;
 }
 
 .main-button::before, .submit-button::before {
