@@ -5,7 +5,7 @@ const path = require('path');
 const styleFilePath = path.join(__dirname, 'css', 'styles.css');
 // HTML fayllar ro'yxati
 const htmlFiles = [
-  path.join(__dirname, 'index.html'),
+  path.join(__dirname, 'index-x.html'),
   path.join(__dirname, 'telegram.html')
 ];
 
